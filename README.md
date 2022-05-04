@@ -1,8 +1,8 @@
 # Explore-all-my-projects-and-works
 
-My Instagram clone : https://pavanbabu8511.github.io/MY_Instagram/
-
 College Website : https://pavanbabu8511.github.io/College_Website/
+
+My Instagram clone : https://pavanbabu8511.github.io/MY_Instagram/
 
 Advanced Technologies cover page : https://pavanbabu8511.github.io/Advanced-Technologies-Cover-Page/
 
